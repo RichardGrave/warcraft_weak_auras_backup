@@ -1,5 +1,5 @@
 # Warcraft WeakAuras backup
-Warcraft WeakAuras backup profiles for several classes.
+Warcraft WeakAuras backup profiles for several classes.\
 Could also be used as a template for other classes/spells/abilities
 
 Can be imported in the WeakAura mod.
